@@ -1,0 +1,462 @@
+[
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Application",
+        "object": "School",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Application",
+        "object": "School",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Application",
+        "object": "School",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Application",
+        "object": "School",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Application",
+        "object": "School",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Application",
+        "object": "School",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Application",
+        "object": "School",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Application",
+        "object": "School",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "19:36:11"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:23:08"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:23:37"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:24:54"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:25:12"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:25:14"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:25:54"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:25:58"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:39:09"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:39:23"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:52:22"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "20:52:29"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "08:06:30"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "08:06:33"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "09:34:46"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "09:34:49"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "09:56:59"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "10:07:14"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "10:07:15"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "10:10:14"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "10:10:16"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "10:11:03"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "10:11:06"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "10:54:24"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "10:54:27"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "12:43:05"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "12:43:06"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "12:48:06"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "12:51:35"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "12:51:36"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "12:56:51"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "12:56:53"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "14:28:32"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.1,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "14:28:34"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.8,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "14:37:44"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.8,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "14:37:46"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.8,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "15:21:39"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.8,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "15:21:41"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.8,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "05:07:31"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.8,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "05:07:34"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.5,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "06:30:37"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.5,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "06:30:39"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.0,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "07:28:14"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.0,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "07:28:15"
+    }
+]

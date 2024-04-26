@@ -1,0 +1,65 @@
+[
+    {
+        "Serviceid": "Service1",
+        "Contract": "Local",
+        "LocalRuleHash": "62845f31a2fe00be3ebaaeb93f5b27af82ab81dfcbaa1871c76f596cd98cf3c9",
+        "Servicerthreshould": 0.0,
+        "PreviousTrust": 0,
+        "ServiceTrust": 0.0,
+        "Role": "Admin",
+        "Authorization": [
+            "display"
+        ],
+        "Role1": "User",
+        "Time": "15:27:17"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.0,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "15:27:17"
+    },
+    {
+        "Serviceid": "Service2",
+        "Contract": "Local",
+        "LocalRuleHash": "62845f31a2fe00be3ebaaeb93f5b27af82ab81dfcbaa1871c76f596cd98cf3c9",
+        "Servicerthreshould": 0.0,
+        "PreviousTrust": 0,
+        "ServiceTrust": 0.0,
+        "Role": "Admin",
+        "Authorization": [
+            "display"
+        ],
+        "Role1": "User",
+        "Time": "15:27:17"
+    },
+    {
+        "LocalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.0,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "15:27:17"
+    },
+    {
+        "Contract": "Global",
+        "GlobalRuleHash": "62845f31a2fe00be3ebaaeb93f5b27af82ab81dfcbaa1871c76f596cd98cf3c9",
+        "Servicerthreshould": 0.0,
+        "PreviousTrust": 0,
+        "ServiceTrust": 0.0,
+        "Time": "15:32:54"
+    },
+    {
+        "GlobalpolicyHash": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+        "Subject": "Service1",
+        "object": "Service2",
+        "CollaborativeServiceTrust": 0.0,
+        "CollaborativeServicePTrust": 0.0,
+        "CollaborativeServiceCTrust": 0.0,
+        "Time": "15:32:54"
+    }
+]

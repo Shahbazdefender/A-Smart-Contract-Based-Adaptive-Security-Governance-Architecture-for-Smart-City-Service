@@ -1,0 +1,20 @@
+{
+    "BLockchainLocalRule-2txid": "c41e4bac5d17202267b9b74540d6394a34dfdce46ddc39116beca4b88d4bd2f9",
+    "BLockchainLocalRule-2publisherid": [
+        "1SJ64nNboqjiVeaPF4BzTqKxthEh7n4vBVC739"
+    ],
+    "BLockchainLocalPolicies-2txid": "18fceef3c0988ea56c3e4a945a83d7967d8d7db24eadd62844b66214075b5761",
+    "BLockchainLocalPolicies-2publisherid": [
+        "1SJ64nNboqjiVeaPF4BzTqKxthEh7n4vBVC739"
+    ],
+    "Contract": "Local",
+    "BLockchainGlobalRule-2txid": "ce055896eea5823f77cc9161ba7d8e7876ae7b9c9eb871cc47bca5ae9d1487ac",
+    "BLockchainGlobalRule-2publisherid": [
+        "1MMLkZsgn4ABWMmKtGkSeHBB3rMC9aKgihpSg1"
+    ],
+    "BLockchainGlobalPolicies-2txid": "1fc5424ae8bdc4dd89c4c153d96b68e6cd94f03168f42da6d5eff2117fb3b0f8",
+    "BLockchainGlobalPolicies-2publisherid": [
+        "1MMLkZsgn4ABWMmKtGkSeHBB3rMC9aKgihpSg1"
+    ],
+    "GContract": "Global"
+}

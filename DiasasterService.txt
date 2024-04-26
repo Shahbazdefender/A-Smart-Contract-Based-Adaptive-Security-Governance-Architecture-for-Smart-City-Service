@@ -1,0 +1,35 @@
+{
+    "SDNController": "4b3f3be75c6f95244604638f7d6918df",
+    "organisations": "NDMA",
+    "latitude": [
+        48.003,
+        12.32,
+        52.0,
+        12.65,
+        74.003,
+        19.812,
+        87.888
+    ],
+    "longitude": [
+        53.233,
+        42.344,
+        22.022,
+        123.651,
+        74.003,
+        32.456,
+        66.238
+    ],
+    "AirIndex": [
+        200,
+        201,
+        100,
+        300,
+        301,
+        304,
+        210,
+        300
+    ],
+    "Hash1": "62845f31a2fe00be3ebaaeb93f5b27af82ab81dfcbaa1871c76f596cd98cf3c9",
+    "Hash2": "b2afcb0f1ed02435c28ea7d459d15d605f47e6cba082fb533e363a651d9662b1",
+    "Alert":"Hello"
+}
